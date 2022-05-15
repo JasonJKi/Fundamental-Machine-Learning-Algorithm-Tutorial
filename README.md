@@ -1,4 +1,6 @@
-This repository contains numpy implementation of "Standard" ML Algorithms. There are multiple ways to implement these algorithms. The codes shown here are meant to be a learning reference. If you like these tutorial, please start this repository and share. Thanks, Jason 
+This repository contains implementation of "Standard" ML Algorithms using only the Numpy library (nplearn) and tutorials in Jupyter Notebook with sample data. 
+
+The codes shown here are meant to be a resources for anyone looking to learn or review concepts and implementation of these algorithms, and is not optimized for run time. If you like these tutorial, please start this repository and share. Thanks, Jason 
 
 Table of Content
 
